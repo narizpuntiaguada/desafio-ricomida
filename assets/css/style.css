@@ -1,0 +1,52 @@
+/* inicio nav */
+nav {
+  background-color: #373A3C;
+}
+
+.navbar-brand {
+  font-size: 37pt;
+  font-family: "Lobster";
+  color: #FFFFFF;
+}
+
+/* fin nav */
+
+
+/* inicio main */
+.container {
+  font-family: "Cabin", sans-serif;
+  font-size: 20px;
+
+}
+
+
+/* suscripcion */
+.seccion-suscripcion {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+.seccion-suscripcion p {
+  font-family: "Cabin bold";
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.seccion-suscripcion p span {
+
+  font-family: "Lobster", sans-serif;
+}
+
+/* inicio footer */
+footer h2 {
+
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  background-color: #373A3C;
+  color: #fff;
+  background-color: #000;
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+
+}
