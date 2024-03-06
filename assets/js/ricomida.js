@@ -8,7 +8,7 @@ $("#enviar_correo").on("click", function () {
 });
 
 $("h3").on("dblclick", function () {
-    $(this).css("color", "red")
+    $(this).css("color", "blue")
 });
 
 
